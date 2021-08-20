@@ -46,8 +46,8 @@ MIT license
 
 [Центр перспективных управленческих решений](https://cpur.ru/)
 
-Николай Давыдов, [n.davydov@cpur.ru]
-Витовт Копыток, [v.kopytok@cpur.ru]  
+Николай Давыдов, [n.davydov@cpur.ru]  
+Витовт Копыток, [v.kopytok@cpur.ru]    
 Юлия Кузьмина, [y.kuzmina@cpur.ru]  
 Сергей Тихонов, [s.tihonov@cpur.ru]
 
