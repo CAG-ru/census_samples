@@ -40,6 +40,6 @@
 Николай Давыдов, [n.davydov@cpur.ru]  
 Витовт Копыток, [v.kopytok@cpur.ru]    
 Юлия Кузьмина, [y.kuzmina@cpur.ru]  
-Сергей Тихонов, [s.tihonov@cpur.ru]
+Сергей Тихонов, [s.tikhonov@cpur.ru]
 
 [Российская экономическая школа](https://www.nes.ru/)
