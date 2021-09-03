@@ -1,6 +1,6 @@
 # Russian Census Samples
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/CAG-ru/census_samples/blob/main/births.png)
 
 В данном репозитории представлены результаты подготовки сэмплов на микроданных российской переписи 2010 года.
 
